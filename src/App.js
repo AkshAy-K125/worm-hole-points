@@ -478,7 +478,11 @@ const App = () => {
 
 
   return (
-    <><canvas id="c"></canvas></>
+    <><canvas id="c"></canvas>
+      <div className="info">
+        Created by Akshay Kumar
+      </div>
+    </>
   )
 }
 
