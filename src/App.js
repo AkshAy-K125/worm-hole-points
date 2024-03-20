@@ -481,6 +481,8 @@ const App = () => {
     <><canvas id="c"></canvas>
       <div className="info">
         Created by Akshay Kumar
+        <br />
+        Click anywhere on the screen to experience the particle flow
       </div>
     </>
   )
